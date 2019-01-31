@@ -30,6 +30,8 @@ A new data set is like a new person you may want to be friends with. You treat i
 
 # Example of Machine Learning Story
 
+**Brief** To become a good machine learning practitioner, simply finishing school work is not enough. I recommend you find a topic you truly love and try to adopt theoretical framework to that topic. 
+
 Take myself for an examle, I love looking at stock charts. A lot of theoretical formula I can relate them to stock market. 
 
 First, I started by looking at correlation. This links to running regression and I have conducted experiment to learn that myself when I was a freshman. What is the linear relationship between market return and a stock return? How about fundamental values? Paper is [here](https://yiqiaoyin.files.wordpress.com/2016/08/how-to-understand-future-returns-of-a-securityef80a5-revised-2014.pdf).
