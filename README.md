@@ -47,7 +47,7 @@ After trading floor, I took a little bit of time and summarizing my experiences 
 - [Anomaly Correction by Trading Frequency](https://yiqiaoyin.files.wordpress.com/2016/09/anomaly-correction-by-trading-frequency.pdf)
 - [Absolute Alpha with Moving Averages: A Consistent Trading Strategy](https://yiqiaoyin.files.wordpress.com/2016/05/absolute-alpha-with-moving-averages.pdf)
 - [Absolute Alpha with Limited Leverage](https://yiqiaoyin.files.wordpress.com/2016/05/absolute-alpha-with-limited-leverage.pdf)
-- [Absolute Alpha by Beta Manipulation](Absolute Alpha by Beta Manipulation)
+- [Absolute Alpha by Beta Manipulation](https://yiqiaoyin.files.wordpress.com/2016/05/absolute-alpha-by-beta-manipulation.pdf)
 and this when I started to build up intra-discplinary experience across the fields of (1) trading, (2) probability theory, (3) accounting, and (4) game theory. Most of what I am right now depend on these past couple of papers.
 
 Interesting phenomenon (and you probably saw it too) was that I did not have any machine learning technique discussed yet. However, the few papers above gave me a unique view so that I can create any stock data however I want. This is when machine learning comes in, which leads to this paper: [Robust Portfolio by Influence Measure with presentation and Github](https://yiqiaoyin.files.wordpress.com/2018/12/rubust-portfolio-by-influence-measure-yiqiao-yin-2018.pdf)
