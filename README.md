@@ -9,7 +9,7 @@ I do not believe there is one book or one problem set to do so that one can magi
 (1) Read as many books as you can and try to replicate the machine learning techniques. This is early stage of getting yourself familiar with machine learning tools and you should feel comfortable of getting your hands dirty. 
 
 Some great books are:
-- An Introduction to Statistical Learning [Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani]
+- An Introduction to Statistical Learning [Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani] \href{df}{df}
 - An Introduction to Support Vector Machines and Other Kernel-based Learning Methods [Cristianini]
 - Elements of Statistical Learning [Trevor Hastie, Robert Tibshirani, Jerome Friedman]
 - Machine Learning [Kevin Murphy]
