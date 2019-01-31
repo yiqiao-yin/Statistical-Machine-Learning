@@ -9,19 +9,20 @@ I do not believe there is one book or one problem set to do so that one can magi
 (1) Read as many books as you can and try to replicate the machine learning techniques. This is early stage of getting yourself familiar with machine learning tools and you should feel comfortable of getting your hands dirty. 
 
 Some great books are:
-- An Introduction to Statistical Learning [Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani](https://www-bcf.usc.edu/~gareth/ISL/ISLR%20First%20Printing.pdf)
-- An Introduction to Support Vector Machines and Other Kernel-based Learning Methods [Cristianini]
-- Elements of Statistical Learning [Trevor Hastie, Robert Tibshirani, Jerome Friedman]
-- Machine Learning [Kevin Murphy]
+- An Introduction to Statistical Learning by Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani; click [here](https://www-bcf.usc.edu/~gareth/ISL/ISLR%20First%20Printing.pdf)
+- An Introduction to Support Vector Machines and Other Kernel-based Learning Methods by Cristianini; click [here](https://www.amazon.com/Introduction-Support-Machines-Kernel-based-Learning/dp/0521780195)
+- Elements of Statistical Learning by Trevor Hastie, Robert Tibshirani, Jerome Friedman; click [here](https://web.stanford.edu/~hastie/Papers/ESLII.pdf)
+- Machine Learning by Kevin Murphy; click [here](https://www.cs.ubc.ca/~murphyk/MLbook/)
 
 Programming Languages:
 - You should be fluent in both Python and R. 
 - You should attempt to replicate same results in C++. 
 
+A good exercise is to go to Online Code Compiler, click [here](https://rextester.com/l/r_online_compiler) and do some matrix algebra with different languages simultaneously. 
+
 (2) For intermediate level students, you should be fluent in Step (1). To move beyond here, you need to go to Github or Kaggle and search for new data sets (the ones you have never touched before) and try to replicate Step (1) using new data sets. 
 
-Review this Wiki Site and Search for New Data Set: https://en.wikipedia.org/wiki/List_of_datasets_for_machine_learning_research
-Once you find something interesting you can go to Github or Kaggle.
+Review this [Wiki Site](https://en.wikipedia.org/wiki/List_of_datasets_for_machine_learning_research) and Search for New Data Set. Once you find something interesting you can go to Github or Kaggle.
 
 A new data set is like a new person you may want to be friends with. You treat it well and learn from it. You will gain experience. The data set does not limit to any form. It can be (1) big of small, (2) supervised or unsupervised, (3) time-series, (4) images, and so on. you need to be able to tell a great story with results from multiple different machine learning techniques given any data sets. 
 
