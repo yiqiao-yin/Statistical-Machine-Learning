@@ -2,7 +2,7 @@
 
 This is the Github repo for the course Statistical Machine Learning offered at Columbia University. I set this up for future students and hope this site can be helpful. Please feel free to email me if you have questions. 
 
-# Advice:
+# Advice
 
 I do not believe there is one book or one problem set to do so that one can magically become an expert in machine learning. That being said, there are a few directions to go so that perhaps you can be on the right track. On top of that, your dilligence is a great contributing factor to determine how far you can push yourself in this field. 
 
