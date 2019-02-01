@@ -2,7 +2,9 @@
 
 **Brief** To become a good machine learning practitioner, simply finishing school work is not enough. I recommend you find a topic you truly love and try to adopt theoretical framework to that topic. 
 
-Take myself for an examle, I love looking at stock charts. A lot of theoretical formula I can relate them to stock market. 
+Take myself for an examle, I love looking at stock charts. When I was a child, my dad would discuss [Security Analysis](https://www.amazon.com/Security-Analysis-Foreword-Buffett-Editions/dp/0071592539) with me instead of Bible. I grew up with the passion of loving stock market and it is part of my identity. Later I started going to school and I found myself a unique ability is to relate almost all mathematical theorem with stock market. I test them out with real money. Of course I made mistakes and lost money before. I record the action and decision making process. I come back to computer and simulate the event again and again to myself until I figure out something right. Then I use real money again. This cycle repeated since 2010 and I pocketed a unique pool of experience no one has done before in capital market. 
+
+## Journey
 
 First, I started by looking at correlation. This links to running regression and I have conducted experiment to learn that myself when I was a freshman. What is the linear relationship between market return and a stock return? How about fundamental values? 
 - Paper is [How to Understand Future Returns of a Security](https://yiqiaoyin.files.wordpress.com/2016/08/how-to-understand-future-returns-of-a-securityef80a5-revised-2014.pdf).
