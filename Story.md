@@ -11,7 +11,7 @@ First, I started by looking at correlation. This links to running regression and
 
 Next, I started to size up. A data composed of stock-to-market comparison seemed too easy, so I started looking at cross-sectional finance data. The common data set that is used for PhD students in finance is CRSP stock universe. This is where I started to work with large-scale matrices that are 2GB in size and when I learned to work with different forms of data frames. It started to turn into tedious data clean-up work. However, the results are interesting. 
 - I wrote [Cross-section Study on Stock Returns](https://yiqiaoyin.files.wordpress.com/2016/08/cross-section-study-on-stock-returns-to-future-expectation-theorem.pdf); and 
-- Another similar project that examines stock market through market value balance sheet, [here](https://yiqiaoyin.files.wordpress.com/2016/08/alternative-empirical-study-on-market-value-balance-sheet.pdf) is interesting too.
+- Another similar project that examines stock market through market value balance sheet, click [here](https://yiqiaoyin.files.wordpress.com/2016/08/alternative-empirical-study-on-market-value-balance-sheet.pdf) if interested.
 
 After looking at tons of stock returns data set, I got bored at conventional way of analyzing stock market. I invented this term "greed" so that I can turn this into a supervised model for myself to study. This is not publishable idea, but quite interesting to me. Paper is [here](https://yiqiaoyin.files.wordpress.com/2016/05/empirical-study-on-greed.pdf). 
 
