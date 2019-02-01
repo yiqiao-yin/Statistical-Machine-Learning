@@ -29,6 +29,6 @@ After trading floor, I took a little bit of time and summarizing my experiences 
 and this when I started to build up intra-discplinary experience across the fields of (1) trading, (2) probability theory, (3) accounting, and (4) game theory. Most of what I am right now depend on these past couple of papers.
 
 Interesting phenomenon (and you probably saw it too) was that I did not have any machine learning technique discussed yet. However, the few papers above gave me a unique view so that I can create any stock data however I want. This is when machine learning comes in, which leads to this paper.
-- [Robust Portfolio by Influence Measure with presentation and Github](https://yiqiaoyin.files.wordpress.com/2018/12/rubust-portfolio-by-influence-measure-yiqiao-yin-2018.pdf)
+- [Robust Portfolio by Influence Measure with presentation](https://yiqiaoyin.files.wordpress.com/2018/12/rubust-portfolio-by-influence-measure-yiqiao-yin-2018.pdf)
 
 I am now equipped with two unique skills: (1) I can use probability theory to manipulate and invent any stock data helpful for me; and (2) I can invent a machine learning algorithm that solves that problem. All of these ideas are updated frequently [here](https://yinscapital.com/private-collection/)
