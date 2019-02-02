@@ -33,4 +33,4 @@ Interesting phenomenon (and you probably saw it too) was that I did not have any
 - [Robust Portfolio by Influence Measure with presentation](https://yiqiaoyin.files.wordpress.com/2018/12/rubust-portfolio-by-influence-measure-yiqiao-yin-2018.pdf)
 - A small project that comes along this paper is finished as [an Applied Data Science project](https://github.com/yiqiao-yin/Fall2018-Advanced-Data-Science-Final-Project)
 
-I am now equipped with two unique skills: (1) I can use probability theory to manipulate and invent any stock data helpful for me; and (2) I can invent a machine learning algorithm that solves that problem. All of these ideas are updated frequently [here](https://yinscapital.com/private-collection/)
+I am now equipped with two unique skills: (1) I can use probability theory to manipulate and invent any stock data helpful for me; and (2) I can invent a machine learning algorithm that solves that problem. All of these ideas are updated frequently [here](https://yinscapital.com/private-collection/).
