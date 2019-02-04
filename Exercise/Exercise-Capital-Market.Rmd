@@ -118,6 +118,8 @@ We download the stocks that are big four large cap stocks in Tech Sector (AAPL, 
 
 - **bottom-left**: Multiple plots from Modern Portfolio Theorey (MPT). The x-axis is risk (measured by standard deviation of returns) and the y-axis is reward (measured by expectation of returns). The black dots are all the single assets. The blue curvatures coonect only two assets. The black dotted line is the efficient frontier (constructed by drawing a line that just covers all the double-asset portfolios). The purple line is the market capital line, drawn by looking at the tangent of the efficient frontier and the risk-free asset. The tangent portfolio (also known as efficient portfolio) has the smallest risk with the highest reward and this portfolio actually holds weights (28\% for Apple, 42\% for Google, and 29\% for Microsoft).
 
+- **bottom-right**: The plot presents four paths while each path is for a particular performance measured in returns for a certain time unit. These time units are weekly, monthly, quarterly, and yearly. The x-axis is the indicator for individual stocks. They are the four stocks in this report, AAPL, AMZN, GOOGL, and MSFT.
+
 - **interesting phenomenon**: Modern Portfolio Theory actually suggests to hold Apple even though in the Overview it seemed that Apple has dropped the most.
 
 ```{r, message=FALSE, error=FALSE, warning=FALSE, echo=FALSE}
