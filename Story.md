@@ -2,7 +2,7 @@
 
 **Brief** To become a good machine learning practitioner, simply finishing school work is not enough. I recommend you find a topic you truly love and try to adopt theoretical framework to that topic. 
 
-Take myself for an examle, I love looking at stock charts. When I was a child, my dad would discuss [Security Analysis](https://www.amazon.com/Security-Analysis-Foreword-Buffett-Editions/dp/0071592539) with me instead of Bible. I grew up with the passion of loving stock market and it is part of my identity. Later I started going to school and I found myself a unique ability is to relate almost all mathematical theorem with stock market. I test them out with real money. Of course I made mistakes and lost money before. I record the action and decision making process. I come back to computer and simulate the event again and again to myself until I figure out something right. Then I use real money again. This cycle repeated since 2010 and I pocketed a unique pool of experience no one has done before in capital market. Nobody pays me anything and I don't get high grades from this. I do this because I truly like it. I don't need other incentives. 
+Take myself for an example, I love looking at stock charts. When I was a child, my dad would discuss [Security Analysis](https://www.amazon.com/Security-Analysis-Foreword-Buffett-Editions/dp/0071592539) with me instead of Bible. I grew up with the passion of loving stock market and it is part of my identity. Later I started going to school and I found myself a unique ability is to relate almost all mathematical theorem with stock market. I test them out with real money. Of course I made mistakes and lost money before. I record the action and decision making process. I come back to computer and simulate the event again and again to myself until I figure out something right. Then I use real money again. This cycle repeated since 2010 and I pocketed a unique pool of experience no one has done before in capital market. Nobody pays me anything and I don't get high grades from this. I do this because I truly like it. I don't need other incentives. 
 
 ## Journey
 
@@ -16,8 +16,8 @@ Next, I started to size up. A data composed of stock-to-market comparison seemed
 After looking at tons of stock returns data set, I got bored at conventional way of analyzing stock market. I invented this term "greed" so that I can turn this into a supervised model for myself to study. This is not publishable idea, but quite interesting to me. 
 - Paper is [here](https://yiqiaoyin.files.wordpress.com/2016/05/empirical-study-on-greed.pdf). 
 
-In 2016 I took a little diregression to study macro-economics. I did a project on contact rate in game theory. The paper was too hard, but the coding part is easy. I got stuck on dynamic model in macro material and it took me 3 months to figure this out. It leads to nowhere, but I am grateful to the professor who instructed me and him spending time with me on this project. 
-- Trade Dyamics with Endogenous Contact Rate is [here](https://yiqiaoyin.files.wordpress.com/2016/10/trade-dynamics-with-endogenous-contact-rate.pdf). 
+In 2016 I took a little digression to study macroeconomics. I did a project on contact rate in game theory. The paper was too hard, but the coding part is easy. I got stuck on dynamic model in macro material and it took me 3 months to figure this out. It leads to nowhere, but I am grateful to the professor who instructed me and him spending time with me on this project. 
+- Trade Dynamics with Endogenous Contact Rate is [here](https://yiqiaoyin.files.wordpress.com/2016/10/trade-dynamics-with-endogenous-contact-rate.pdf). 
 
 After trading floor, I took a little bit of time and summarizing my experiences on the trading floor and they become the following series of papers:
 - [Buy Signal from Limit Theorem](https://yiqiaoyin.files.wordpress.com/2018/05/buy-signal-from-limit-theorem.pdf)
