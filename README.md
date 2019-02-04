@@ -2,6 +2,14 @@
 
 This is the Github repo for the course Statistical Machine Learning offered at Columbia University. I set this up for future students and hope this site can be helpful. Please feel free to email me if you have questions. 
 
+# Documents
+
+There are the following documents:
+- Homework: there are a few files I collected from past homework; I would love people to not focus on this part, because simply doing homework is not enough.
+- Notes: this document has lecture notes taken by me and I am glad to share this with you. That being said, I have faith that successful audience tend not to use online documents. I believe they are capable of preparing their own notes. Mine is simply up for sharing and inspration purpose. It is strongly recommended that you use your own notes.
+- Lecture: slides I collected in machine learning
+- Exercise: This is a dictonary of packages of different machine learning scripts. Each script has (1) Definition of function, (2) Toy data, and (3) Running the function. I wrote all scripts in the same format so that I can fit them into a larger picture later on. It is strongly recommended that you come up with your own format of executing these functions, but I hope mine can be good inspiration.
+
 # Advice
 
 I do not believe there is one book or one problem set to do so that one can magically become an expert in machine learning. That being said, there are a few directions to go so that perhaps you can be on the right track. On top of that, your dilligence is a great contributing factor to determine how far you can push yourself in this field. 
