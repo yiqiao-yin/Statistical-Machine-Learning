@@ -52,10 +52,8 @@ data <- All.Indice.3D.Enter(AAPL, MSFT, GOOGL, NVDA,    AMZN, GS, LMT, BA)
 rownames(data) <- c("AAPL", "MSFT", "GOOGL", "NVDA",     "AMZN", "GS", "LMT", "BA"); data
 
 # Write GIF
-
 saveGIF({
   for (month in as.character(rep(1:12))) {
-    month <- as.character(rep(1:12))[11]
     getSymbols(c("AAPL", "MSFT", "GOOGL", "NVDA",     "AMZN", "GS", "LMT", "BA"),
                to = paste0("2018-",month,"-01")) # ; head(AAPL); tail(AAPL)
     data <- All.Indice.3D.Enter(AAPL, MSFT, GOOGL, NVDA,    AMZN, GS, LMT, BA)
