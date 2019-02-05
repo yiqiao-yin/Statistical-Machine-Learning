@@ -52,8 +52,10 @@ data <- All.Indice.3D.Enter(AAPL, MSFT, GOOGL, NVDA,    AMZN, GS, LMT, BA)
 rownames(data) <- c("AAPL", "MSFT", "GOOGL", "NVDA",     "AMZN", "GS", "LMT", "BA"); data
 
 # Write GIF
+
 saveGIF({
   for (month in as.character(rep(1:12))) {
+    month <- as.character(rep(1:12))[11]
     getSymbols(c("AAPL", "MSFT", "GOOGL", "NVDA",     "AMZN", "GS", "LMT", "BA"),
                to = paste0("2018-",month,"-01")) # ; head(AAPL); tail(AAPL)
     data <- All.Indice.3D.Enter(AAPL, MSFT, GOOGL, NVDA,    AMZN, GS, LMT, BA)
@@ -64,11 +66,20 @@ saveGIF({
          xlab = "Last Month Returns", ylab = "Last Week Returns",
          data = data[,c(1,2)], pch = 2)
     with(data[,c(1,2)], text(data$Pre.5.Days~data$Pre.30.Days,
-                             labels = row.names(data[, c(1,2)]), 
-                             pos = 4))
+                             labels = row.names(data[, c(1,2)]), pos = 4))
+    if (as.numeric(month) %in% c(2,3)) {
+      txt <- "Invisible Hand as Boundary!!"; txt.color = "green";
+      mtext(text = txt, side = c(3,4), line = 0.5, cex = 1, font = 1, col = txt.color)}
+    if (as.numeric(month) %in% c(5)) {
+      txt <- "Invisible Hand as Boundary!!"; txt.color = "green";
+      mtext(text = txt, side = 1, line = 0.5, cex = 1, font = 1, col = txt.color)}
+    if (as.numeric(month) %in% c(11)) {
+      txt <- "Invisible Hand as Boundary!!"; txt.color = "green";
+      mtext(text = txt, side = 2, line = 0.5, cex = 1, font = 1, col = txt.color)}
   }
 }, movie.name = paste0("2018-",month,"-01-BM-style", ".gif"),
 interval = 0.8, nmax = 30, 
 ani.width = 600)
+
 
 #################### END SCRIPT ########################
