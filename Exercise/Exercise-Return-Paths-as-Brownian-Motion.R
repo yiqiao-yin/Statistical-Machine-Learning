@@ -65,7 +65,7 @@ saveGIF({
          data = data[,c(1,2)], pch = 2)
     with(data[,c(1,2)], text(data$Pre.5.Days~data$Pre.30.Days,
                              labels = row.names(data[, c(1,2)]), pos = 4))
-    if (as.numeric(month) %in% c(2,3)) {
+    if (as.numeric(month) %in% c(2)) {
       txt <- "Invisible Hand as Boundary!!"; txt.color = "green";
       mtext(text = txt, side = c(3,4), line = 0.5, cex = 1, font = 1, col = txt.color)}
     if (as.numeric(month) %in% c(5)) {
