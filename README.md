@@ -14,6 +14,8 @@ There are the following documents:
 
 I do not believe there is one book or one problem set to do so that one can magically become an expert in machine learning. That being said, there are a few directions to go so that perhaps you can minimize your time searching for the right path. On top of that, your dilligence is a great contributing factor to determine how far you can push yourself in this field. 
 
+In simple words, take grades, money, and media attention out of the equation, are you still willing to do machine learning? If not, then this is not for you. 
+
 ## Stage I
 
 (1) Read as many books as you can and try to replicate the machine learning techniques. This is early stage of getting yourself familiar with machine learning tools and you should feel comfortable of getting your hands dirty. 
