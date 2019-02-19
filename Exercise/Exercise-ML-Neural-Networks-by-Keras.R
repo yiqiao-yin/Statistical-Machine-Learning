@@ -20,9 +20,9 @@ keras.nn <- function(
   all <- data.frame(cbind(y,x))
   
   # Setup
-  x_train <- as.matrix(all[1:(cutoff*nrow(all)), ])
+  x_train <- as.matrix(all[1:(cutoff*nrow(all)), -1])
   y_train <- as.matrix(all[1:(cutoff*nrow(all)), 1])
-  x_test <- as.matrix(all[(cutoff*nrow(all)+1):nrow(all), ])
+  x_test <- as.matrix(all[(cutoff*nrow(all)+1):nrow(all), -1])
   y_test <- as.matrix(all[(cutoff*nrow(all)+1):nrow(all), 1])
   dim(x_train); dim(y_train); dim(x_test); dim(y_test)
   
