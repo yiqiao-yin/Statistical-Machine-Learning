@@ -38,6 +38,7 @@ Review this [Wiki Site](https://en.wikipedia.org/wiki/List_of_datasets_for_machi
 
 A new data set is like a new person you may want to be friends with. You treat it well and learn from it. You will gain experience. The data set does not limit to any form. It can be (1) big or small, (2) supervised or unsupervised, (3) time-series, sound wave, or stock prices, (4) 2D images, 3D objects, ..., and so on. you need to be able to tell a great story with results from multiple different machine learning techniques given any data sets. 
 - A list of famous data sets can be found [here](https://en.wikipedia.org/wiki/List_of_datasets_for_machine_learning_research).
+- Kaggle Data Set for competition and machine learning; link can be found [here](https://www.kaggle.com/datasets).
 - One can also refer to UCI Machine Learning site for more data sets. Click [here](https://archive.ics.uci.edu/ml/index.php).
 
 ## Stage III
