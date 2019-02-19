@@ -12,7 +12,7 @@ There are the following documents:
 
 # Advice
 
-I do not believe there is one book or one problem set to do so that one can magically become an expert in machine learning. That being said, there are a few directions to go so that perhaps you can be on the right track. On top of that, your dilligence is a great contributing factor to determine how far you can push yourself in this field. 
+I do not believe there is one book or one problem set to do so that one can magically become an expert in machine learning. That being said, there are a few directions to go so that perhaps you can minimize your time searching for the right path. On top of that, your dilligence is a great contributing factor to determine how far you can push yourself in this field. 
 
 ## Stage I
 
