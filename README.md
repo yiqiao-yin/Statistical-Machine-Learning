@@ -27,6 +27,7 @@ Some great books are:
 Programming Languages:
 - You should be fluent in both Python and R. 
 - You should attempt to replicate same results in C++. 
+- A list of ML functions for practice taken from Handson's ML textbook. For full list of Python code, please click [here](https://github.com/yiqiao-yin/handson-ml).
 
 A good exercise is to go to Online Code Compiler, click [here](https://rextester.com/l/r_online_compiler) and do some matrix algebra with different languages simultaneously. 
 
