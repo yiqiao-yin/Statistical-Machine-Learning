@@ -31,6 +31,11 @@ Programming Languages:
 - You should attempt to replicate same results in C++. 
 - A list of ML functions for practice taken from Handson's ML textbook. For full list of Python code, please click [here](https://github.com/yiqiao-yin/handson-ml).
 
+Programming Languages (industrial level):
+- You want to be familiar with C++/C#, Java, and Python altogether for the purpose writing sotware packages and **.exe** format files. These skills go beyond statistical modeling and predictive machine learning. They are more about building software engineers and building platfoms (such as GoogleCloud, Amazon Web Services, or Mobile App).
+- I sourced this repo [here](https://github.com/yiqiao-yin/Statistical_Machine_Learning/tree/master/Java) for those who are interested in getting started with Java.
+- Click [here](https://leetcode.com/) for Leetcode, an online playground environment to code C-base, Java, and Python in a convenient manner. No need to install anything.
+
 A good exercise is to go to Online Code Compiler, click [here](https://rextester.com/l/r_online_compiler) and do some matrix algebra with different languages simultaneously. 
 
 ## Stage II
