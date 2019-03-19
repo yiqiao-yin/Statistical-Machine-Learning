@@ -10,6 +10,7 @@ piR.plot <- function(N) {
 }
 
 ## Plot Monte Carlo Simulation of Pi
+library(animation)
 saveGIF({
   for (i in c(100,200,500,1000,2000,5000,10000,15000,20000)) {piR.plot(i)}
 }, movie.name = "brownian_motion.gif", interval = 0.3, nmax = 30, 
