@@ -6,7 +6,8 @@ piR.plot <- function(N) {
   y <- runif(N)
   d <- sqrt(x^2 + y^2)
   label <- ifelse(d < 1, 1, 0)
-  plot(x,y,col=label+1,main=paste0("Simulation of Pi Using N=",N))
+  plot(x,y,col=label+1,main=paste0("Simulation of Pi Using N=",N),
+       pch = 20, cex = 1)
 }
 
 ## Plot Monte Carlo Simulation of Pi
