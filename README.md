@@ -26,15 +26,22 @@ Some great books are:
 - Elements of Statistical Learning by Trevor Hastie, Robert Tibshirani, Jerome Friedman; click [here](https://web.stanford.edu/~hastie/Papers/ESLII.pdf)
 - Machine Learning by Kevin Murphy; click [here](https://www.cs.ubc.ca/~murphyk/MLbook/)
 
-Programming Languages:
+Programming Languages (academic level):
 - You should be fluent in both Python and R. 
 - You should attempt to replicate same results in C++. 
 - A list of ML functions for practice taken from Handson's ML textbook. For full list of Python code, please click [here](https://github.com/yiqiao-yin/handson-ml).
 
 Programming Languages (industrial level):
 - You want to be familiar with C++/C#, Java, and Python altogether for the purpose writing sotware packages and **.exe** format files. These skills go beyond statistical modeling and predictive machine learning. They are more about building software engineers and building platfoms (such as GoogleCloud, Amazon Web Services, or Mobile App).
-- I sourced this repo [here](https://github.com/yiqiao-yin/Statistical_Machine_Learning/tree/master/Java) for those who are interested in getting started with Java.
-- Click [here](https://leetcode.com/) for Leetcode, an online playground environment to code C-base, Java, and Python in a convenient manner. No need to install anything.
+- I sourced this repo [here](https://github.com/yiqiao-yin/Statistical_Machine_Learning/tree/master/Java) for those who are interested in getting started with Java. This [site](https://introcs.cs.princeton.edu/java/11cheatsheet/) has a few tips about quick start-ups in Java as well. 
+- Click [here](https://leetcode.com/) for Leetcode, an online playground environment to code C-base, Java, and Python in a convenient manner. No need to install anything. One can always refer to some quick tips on Python specifically on [Scikit Learn](https://github.com/yiqiao-yin/Statistical-Machine-Learning/blob/master/PythonReferenceSheet/Scikit_Learn_Cheat_Sheet_Python.pdf) and [MatplotLib](https://github.com/yiqiao-yin/Statistical-Machine-Learning/blob/master/PythonReferenceSheet/Python_Matplotlib_Cheat_Sheet.pdf). 
+- To handle big data in *R*, one can always refer to Spark SQL R interface [here](https://spark.apache.org/docs/latest/sql-programming-guide.html). 
+- Another open-source stream-processing software platform developed by LinkedIn and donated to the Apache Software Foundation, written in Scala and Java, is [kafka](https://kafka.apache.org/). A famous Go Library in Kafka can be found [here](https://github.com/yiqiao-yin/sarama). This [confluence page](https://cwiki.apache.org/confluence/display/KAFKA/Clients#Clients-Go(AKAgolang)) tells us how to handle clients using Kafka as well.
+- To implement GoLang in *R*, one can refer to this [github](https://github.com/rstats-go/gotest).
+- Key advantages using Go: [here](https://yourbasic.org/golang/advantages-over-java-python/).
+- Difference between C++ and Python: [here](https://www.educba.com/python-vs-c-plus-plus/).
+- Difference between Go and Java:[here](https://yourbasic.org/golang/go-vs-java/).
+
 
 A good exercise is to go to Online Code Compiler, click [here](https://rextester.com/l/r_online_compiler) and do some matrix algebra with different languages simultaneously. 
 
