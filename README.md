@@ -42,6 +42,7 @@ Programming Languages (industrial level):
 - Difference between C++ and Python: [here](https://www.educba.com/python-vs-c-plus-plus/).
 - Difference between Go and Java:[here](https://yourbasic.org/golang/go-vs-java/).
 - It is worth knowing that Spark (tutorial is [here](https://github.com/deanwampler/spark-scala-tutorial)) is written in Scala and here is a difference [comparison](https://www.kdnuggets.com/2018/05/apache-spark-python-scala.html) using Scala or Python.
+- When working as a data scientist or statistcian in a team, [DevOps](https://www.guru99.com/devops-tutorial.html) is quite important for one to realize and to be comfortable with.
 
 
 A good exercise is to go to Online Code Compiler, click [here](https://rextester.com/l/r_online_compiler) and do some matrix algebra with different languages simultaneously. 
