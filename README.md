@@ -25,6 +25,7 @@ Some great books are:
 - An Introduction to Support Vector Machines and Other Kernel-based Learning Methods by Cristianini; click [here](https://www.amazon.com/Introduction-Support-Machines-Kernel-based-Learning/dp/0521780195)
 - Elements of Statistical Learning by Trevor Hastie, Robert Tibshirani, Jerome Friedman; click [here](https://web.stanford.edu/~hastie/Papers/ESLII.pdf)
 - Machine Learning by Kevin Murphy; click [here](https://www.cs.ubc.ca/~murphyk/MLbook/)
+- A collection of cheatsheet from Stanford CS230 can be found [here](https://github.com/yiqiao-yin/Statistical-Machine-Learning/tree/master/Stanford_CS230_DeepLearning_Cheatsheet_Collection).
 
 Programming Languages (academic level):
 - You should be fluent in both Python and R. 
