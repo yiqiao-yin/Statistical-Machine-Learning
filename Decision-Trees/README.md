@@ -6,8 +6,8 @@
   <img width="300" src="tree.png">
 </p>
 <p align="center">
-	<img src="https://img.shields.io/badge/stars-30+-blue.svg"/>
-	<img src="https://img.shields.io/badge/license-CC0-blue.svg"/>
+	<img src="https://github.com/yiqiao-yin/awesome-decision-tree-papers/blob/master/tree.png"/>
+	<img src="https://github.com/yiqiao-yin/awesome-decision-tree-papers/blob/master/tree.png"/>
 </p>
 
 A curated list of decision, classification and regression tree research papers with implementations from the following conferences:
