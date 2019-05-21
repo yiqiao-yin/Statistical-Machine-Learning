@@ -3,6 +3,7 @@
 ## Brief
 
 This is a write-up about my findings of related topics and what can potentially be implemented for Stats Graphics course at Columbia Universit taught by [Professor Robbins](https://github.com/jtr13).
+- The course covered a wide range of materials. Sample students project can be found [here](https://jtr13.github.io/spring19/).
 
 ## Background
 
