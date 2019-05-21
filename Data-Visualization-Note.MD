@@ -43,6 +43,7 @@ AQR Capital is a global money management firm. It manages capital for investors 
 <p align="center">
   <img width="400" src="https://github.com/yiqiao-yin/Statistical-Machine-Learning/blob/master/figs/data-viz-note-fig-8.PNG">
 </p>
+
 - [Data Visualization by a third party](http://www.jenn-o.com/test/) hired by AQR: this is a third party hired by AQR, they are independent art designs and they made videos on complex finance data provided by AQR; we do not have to admire everything we see; sometimes it might be interesting for students to hear about criticism; the graph in the video is not very sophisticated and contained mislabel as well as unclear notations (screen shot below).
 <p align="center">
   <img width="500" src="https://github.com/yiqiao-yin/Statistical-Machine-Learning/blob/master/figs/data-viz-note-fig-2.png">
