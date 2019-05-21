@@ -38,12 +38,12 @@ If you are at Mckinsey, what are the types of articles and reports people read? 
 AQR Capital is a global money management firm. It manages capital for investors all around the world and they charge expensive management fees (much more expensive than typical 401K plan offered by State Street for example). This is sort of "failed" case in data visualization because of complex finance data set. From my experience, cross section time-series data set is very difficult to visualize. As of today, information in this field is still passed by regression tables such as coefficients and standard errors (basically numbers). 
 - [Data Visualization Developer](https://www.linkedin.com/jobs/view/data-visualization-developer-at-aqr-capital-management-393681534/): this is a job post by AQR on LinkedIn; in the description of this position, we can see things like SQL, experience in building APIs, experience with Tableau or any other BI tools, experience in Agile environment and so on; a job description such as this automatically puts data science and statistics students at a lower deck of profiles than computer science students when screening candidates; in other words, if I were the employer and I just want someone to draw me a graph on computer, I will probably prefer computer science background people simply because I don't know statisticians can perform this task. If I were told by schools or candidates with stats background that they are also able to perform this task, I would be more informed when hiring candidates.
 <p align="center">
-  <img width="300" src="https://github.com/yiqiao-yin/Statistical-Machine-Learning/blob/master/figs/data-viz-note-fig-7.PNG">
+  <img width="400" src="https://github.com/yiqiao-yin/Statistical-Machine-Learning/blob/master/figs/data-viz-note-fig-7.PNG">
 </p>
 <p align="center">
-  <img width="300" src="https://github.com/yiqiao-yin/Statistical-Machine-Learning/blob/master/figs/data-viz-note-fig-8.PNG">
+  <img width="400" src="https://github.com/yiqiao-yin/Statistical-Machine-Learning/blob/master/figs/data-viz-note-fig-8.PNG">
 </p>
-- [Data Visualization by a third party](http://www.jenn-o.com/test) hired by AQR: this is a third party hired by AQR, they are independent art designs and they made videos on complex finance data provided by AQR; we do not have to admire everything we see; sometimes it might be interesting for students to hear about criticism; the graph in the video is not very sophisticated and contained mislabel as well as unclear notations (screen shot below).
+- [Data Visualization by a third party](http://www.jenn-o.com/test/) hired by AQR: this is a third party hired by AQR, they are independent art designs and they made videos on complex finance data provided by AQR; we do not have to admire everything we see; sometimes it might be interesting for students to hear about criticism; the graph in the video is not very sophisticated and contained mislabel as well as unclear notations (screen shot below).
 <p align="center">
   <img width="500" src="https://github.com/yiqiao-yin/Statistical-Machine-Learning/blob/master/figs/data-viz-note-fig-2.png">
 </p>
