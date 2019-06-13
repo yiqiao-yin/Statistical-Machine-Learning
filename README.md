@@ -28,7 +28,7 @@ Some great books are:
 - A collection of cheatsheet from Stanford CS230 can be found [here](https://github.com/yiqiao-yin/Statistical-Machine-Learning/tree/master/Stanford_CS230_DeepLearning_Cheatsheet_Collection).
 
 Programming Languages (academic level):
-- You should be fluent in both Python and R. 
+- You should be fluent in both Python and R. See difference [here](https://github.com/yiqiao-yin/R-vs.-Python-for-Data-Science).
 - You should attempt to replicate same results in C++. 
 - Additional practices would be to use Java.
 - You should be fluent navigating windows command and shell-base language so you can remotely control a laptop. This is for the purpose of parallel computing and cloud computing.
