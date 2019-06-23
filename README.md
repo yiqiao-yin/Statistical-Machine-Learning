@@ -32,7 +32,7 @@ Programming Languages (academic level):
 - You should attempt to replicate same results in C++. 
 - Additional practices would be to use Java.
 - You should be fluent navigating windows command and shell-base language so you can remotely control a laptop. This is for the purpose of parallel computing and cloud computing.
-- A list of ML functions for practice taken from Handson's ML textbook. For full list of Python code, please click [here](https://github.com/yiqiao-yin/handson-ml). Another good python collection is [here](https://github.com/yiqiao-yin/deeplearning-models) by [Sebastian Raschka](https://github.com/rasbt).
+- A list of ML functions for practice taken from Handson's ML textbook. For full list of Python code, please click [here](https://github.com/yiqiao-yin/handson-ml). Another good python collection is [here](https://github.com/yiqiao-yin/deeplearning-models) by [Sebastian Raschka](https://github.com/rasbt). A great TensorFlow notebook source can be found [here](https://github.com/yiqiao-yin/dlaicourse) which is also taught by Andrew Ng on Coursera site.
 
 Programming Languages (industrial level):
 - You want to be familiar with C++/C#, Java, and Python altogether for the purpose writing sotware packages and **.exe** format files. These skills go beyond statistical modeling and predictive machine learning. They are more about building software engineers and building platfoms (such as GoogleCloud, Amazon Web Services, or Mobile App).
