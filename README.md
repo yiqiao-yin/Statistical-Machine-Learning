@@ -61,6 +61,7 @@ A new data set is like a new person you may want to be friends with. You treat i
 - A list of famous data sets can be found [here](https://en.wikipedia.org/wiki/List_of_datasets_for_machine_learning_research).
 - Kaggle Data Set for competition and machine learning; link can be found [here](https://www.kaggle.com/datasets).
 - One can also refer to UCI Machine Learning site for more data sets. Click [here](https://archive.ics.uci.edu/ml/index.php).
+- A good example is to find an interesting data set, such as Fasion MNIST, and test all sorts of machine learning algorithms. This [post](https://github.com/yiqiao-yin/fashion-mnist) focus on a variety of neural network or convolutional neural network architecture on using this one data set. It's worth exploring this data set with other methodologies.
 
 ## Stage III
 
