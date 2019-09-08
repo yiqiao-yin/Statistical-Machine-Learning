@@ -2,6 +2,10 @@
 
 This is the Github repo for the course Statistical Machine Learning offered at Columbia University. I set this up for future students and hope this site can be helpful. Please feel free to email me if you have questions. 
 
+## Note
+
+Updated materials have been moved to: https://yinscapital.com/product/statistical-machine-learning-master-collection/
+
 # Documents
 
 There are the following documents:
