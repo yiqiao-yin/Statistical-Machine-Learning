@@ -1,6 +1,18 @@
 # Statistical Machine Learning
 
+[![YinsPythonProjects](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://yinscapital.com/research/)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+
 This is the Github repo for the field of Statistical Machine Learning. I set this up for future generations and for anybody who is interested in this topic. I hope this site can be helpful for you all. Please feel free to contact me on [LinkedIn](https://linkedin/com/in/yiqiaoyin) if you have questions.
+
+<p align="center">
+  <img width="800" src="https://github.com/yiqiao-yin/Statistical-Machine-Learning/blob/master/Figures/vae.gif">
+</p>
+
+- Copyright © Yiqiao Yin, 2016 – Present
+- Contact / Author: Yiqiao Yin
+- Email: Yiqiao.Yin@YinsCapital.com
+
 
 # Documents
 
