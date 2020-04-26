@@ -6,7 +6,7 @@
 This is the Github repo for the field of Statistical Machine Learning. I set this up for future generations and for anybody who is interested in this topic. I hope this site can be helpful for you all. Please feel free to contact me on [LinkedIn](https://linkedin/com/in/yiqiaoyin) if you have questions.
 
 <p align="center">
-  <img width="800" src="https://github.com/yiqiao-yin/Statistical-Machine-Learning/blob/master/Figures/vae.gif">
+  <img width="600" src="https://github.com/yiqiao-yin/Statistical-Machine-Learning/blob/master/Figures/vae.gif">
 </p>
 
 - Copyright © Yiqiao Yin, 2016 – Present
