@@ -31,7 +31,7 @@ If you are at Mckinsey, what are the types of articles and reports people read? 
 - [Mckinsey Report "Age of Analytics"](https://www.mckinsey.com/~/media/McKinsey/Business%20Functions/McKinsey%20Analytics/Our%20Insights/The%20age%20of%20analytics%20Competing%20in%20a%20data%20driven%20world/MGI-The-Age-of-Analytics-Full-report.ashx): This is a full report (once a year, I assume) about insights Mckinsey analysts love to share. Page 14 Exhibit E6 has a very interesting visualization composed of circles (again, they love circles). I attached a screenshot below; this could be coded in D3, but I felt like there should be a template for doing something like this and that'll be really helpful.
 
 <p align="center">
-  <img width="500" src="https://github.com/yiqiao-yin/Statistical-Machine-Learning/blob/master/figs/data-viz-note-fig-1.png">
+  <img width="500" src="https://github.com/yiqiao-yin/Statistical-Machine-Learning/blob/master/Figures/data-viz-note-fig-1.png">
 </p>
 
 ## INDUSTRY: Finance/Fintech - [2] Case Study: AQR Capital
@@ -39,21 +39,21 @@ If you are at Mckinsey, what are the types of articles and reports people read? 
 AQR Capital is a global money management firm. It manages capital for investors all around the world and they charge expensive management fees (much more expensive than typical 401K plan offered by State Street for example). This is sort of "failed" case in data visualization because of complex finance data set. From my experience, cross section time-series data set is very difficult to visualize. As of today, information in this field is still passed by regression tables such as coefficients and standard errors (basically numbers). 
 - [Data Visualization Developer](https://www.linkedin.com/jobs/view/data-visualization-developer-at-aqr-capital-management-393681534/): this is a job post by AQR on LinkedIn; in the description of this position, we can see things like SQL, experience in building APIs, experience with Tableau or any other BI tools, experience in Agile environment and so on; a job description such as this automatically puts data science and statistics students at a lower deck of profiles than computer science students when screening candidates; in other words, if I were the employer and I just want someone to draw me a graph on computer, I will probably prefer computer science background people simply because I don't know statisticians can perform this task. If I were told by schools or candidates with stats background that they are also able to perform this task, I would be more informed when hiring candidates.
 <p align="center">
-  <img width="400" src="https://github.com/yiqiao-yin/Statistical-Machine-Learning/blob/master/figs/data-viz-note-fig-7.PNG">
+  <img width="400" src="https://github.com/yiqiao-yin/Statistical-Machine-Learning/blob/master/Figures/data-viz-note-fig-7.PNG">
 </p>
 <p align="center">
-  <img width="400" src="https://github.com/yiqiao-yin/Statistical-Machine-Learning/blob/master/figs/data-viz-note-fig-8.PNG">
+  <img width="400" src="https://github.com/yiqiao-yin/Statistical-Machine-Learning/blob/master/Figures/data-viz-note-fig-8.PNG">
 </p>
 
 - [Data Visualization by a third party](http://www.jenn-o.com/test/) hired by AQR: this is a third party hired by AQR, they are independent art designs and they made videos on complex finance data provided by AQR; we do not have to admire everything we see; sometimes it might be interesting for students to hear about criticism; the graph in the video is not very sophisticated and contained mislabel as well as unclear notations (screen shot below).
 <p align="center">
-  <img width="500" src="https://github.com/yiqiao-yin/Statistical-Machine-Learning/blob/master/figs/data-viz-note-fig-2.png">
+  <img width="500" src="https://github.com/yiqiao-yin/Statistical-Machine-Learning/blob/master/Figures/data-viz-note-fig-2.png">
 </p>
 
 - Data Visualization from existing paper, ex: [Betting against Beta](https://www.sciencedirect.com/science/article/pii/S0304405X13002675#t0015): this is a paper published in Journal of Financial Economics (JFE) and jointly with AQR because AQR provided the data sets that the authors used. In Table 3, they presented a cross-section regression table. An interesting project can simply be convert this table into graphs. That being said, it is not to force all tables into graphs. Some information may make more sense in tables. In other words, better questions can be (1) how to visualize a regression model? (2) how to visualize comparison of multiple regression model? (3) say X1 has high t-value in a regression model, how do visualize that?
 - [AQR on Trend Not Being Bad, Yet](http://rivershedge.blogspot.com/2019/05/aqr-on-trend-not-being-dead-yet.html): This is a blog is trying to comment on an [article](https://images.aqr.com/-/media/AQR/Documents/Whitepapers/You-Cant-Always-Trend-When-You-Want.pdf) published by AQR arguing that trading strategies following trend have been going downhill. To conclude the take-away from AQR's paper, this blogger designed a graph (screen shot below). I like this graph a lot but it is very difficult to read. An interesting project can be attempting to convert this graph into a time-series or interactive app.
 <p align="center">
-  <img width="500" src="https://github.com/yiqiao-yin/Statistical-Machine-Learning/blob/master/figs/data-viz-note-fig-3.png">
+  <img width="500" src="https://github.com/yiqiao-yin/Statistical-Machine-Learning/blob/master/Figures/data-viz-note-fig-3.png">
 </p>
 
 ## INDUSTRY: BioTech - [3] Case Study: Biogen Inc.
@@ -66,12 +66,12 @@ Biogen Inc. is a multinational biotech company based in Cambridge, MA. They trea
 
 - [Data-driven Subtyping of Parkinson's Diease](https://www.nature.com/articles/s41598-018-37545-z#Fig6): This is paper in Nature magazine about Parkinson's disease with data provided by Biogen. Figure 6 (link here and screen shot below) presents very interesting and complex (but easy) visualization. First, it is a three-dimensional visualization. The x- and y-axis are discrete variables and the z-axis is continuous. What you may not notice is in the background there is also line plot! Again, this gets into the "smart" way of doing visualization. We know line plot, bar plots, and even 3D plots (ex: one can use [cloud()](https://www.rdocumentation.org/packages/lattice/versions/0.5-6/topics/cloud) function in R as I used before). However, if one can use all three of them together in a smart way that tells story on one data set, that will be a big challenge. 
 <p align="center">
-  <img width="500" src="https://github.com/yiqiao-yin/Statistical-Machine-Learning/blob/master/figs/data-viz-note-fig-5.png">
+  <img width="500" src="https://github.com/yiqiao-yin/Statistical-Machine-Learning/blob/master/Figures/data-viz-note-fig-5.png">
 </p>
 
 - [One more paper on Parkinson's Disease](https://www.biorxiv.org/content/10.1101/338913v2.full): This is yet another paper on Parkinson's Disease with data provided by Biogen. Figure 2 (screen shot below) presents a 3D scatter plot. The paper intends to show readers that one can look at the plot through three different angles. Hence, there are in additional plot (b), (c), and (d) that is from the perspective of three different axis. To make matters easier, one can simply design an app to allow users to drag the 3D plot with mouse and to see all kinds of angles (just like Google earth). 
 <p align="center">
-  <img width="500" src="https://github.com/yiqiao-yin/Statistical-Machine-Learning/blob/master/figs/data-viz-note-fig-6.png">
+  <img width="500" src="https://github.com/yiqiao-yin/Statistical-Machine-Learning/blob/master/Figures/data-viz-note-fig-6.png">
 </p>
 
 # Techniques
