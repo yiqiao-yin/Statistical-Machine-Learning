@@ -7,7 +7,6 @@ This is the Github repo for the field of Statistical Machine Learning. I set thi
 
 <p align="center">
   <img width="300" src="https://github.com/yiqiao-yin/Statistical-Machine-Learning/blob/master/Figures/vae.gif">
-  <img width="300" src="https://github.com/yiqiao-yin/Statistical-Machine-Learning/blob/master/Figures/mnist-digits-morph-by-vae-multi.gif">
 </p>
 
 - Copyright © Yiqiao Yin, 2016 – Present
