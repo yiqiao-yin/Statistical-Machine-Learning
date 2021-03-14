@@ -39,6 +39,11 @@ Some great books are:
 - Machine Learning by Kevin Murphy; click [here](https://www.cs.ubc.ca/~murphyk/MLbook/)
 - A collection of cheatsheet from Stanford CS230 can be found [here](https://github.com/yiqiao-yin/Statistical-Machine-Learning/tree/master/Stanford_CS230_DeepLearning_Cheatsheet_Collection).
 
+For those of you who has the time and capital resources, I recommend to follow a sequence of courses that are designed to teach you the entire system thoroughly. 
+- Andrew Ng's Coursera Deep Learning Certificate: click [here](https://github.com/yiqiao-yin/Deep-Learning-Coursera)
+- Stanford Website Machine Learning Course - CS 229 Machine Learning: [Course Page](https://stanford.edu/~shervine/teaching/cs-229/)
+- Stanford Website Deep Learning Course - CS230 Deep Learning: [Github](https://github.com/afshinea/stanford-cs-230-deep-learning), [Course Page](https://stanford.edu/~shervine/teaching/cs-230/)
+
 Programming Languages (academic level):
 - You should be fluent in both Python and R. See difference [here](https://github.com/yiqiao-yin/R-vs.-Python-for-Data-Science).
 - You should attempt to replicate same results in C++. 
