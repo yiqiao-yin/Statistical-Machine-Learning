@@ -38,6 +38,7 @@ Some great books are:
 - Elements of Statistical Learning by Trevor Hastie, Robert Tibshirani, Jerome Friedman; click [here](https://web.stanford.edu/~hastie/Papers/ESLII.pdf)
 - Machine Learning by Kevin Murphy; click [here](https://www.cs.ubc.ca/~murphyk/MLbook/), and [here](https://www.r-bloggers.com/2014/09/in-depth-introduction-to-machine-learning-in-15-hours-of-expert-videos/) for official video from the authors
 - A collection of cheatsheet from Stanford CS230 can be found [here](https://github.com/yiqiao-yin/Statistical-Machine-Learning/tree/master/Stanford_CS230_DeepLearning_Cheatsheet_Collection).
+- Dive into Deep Learning: course website [here](https://d2l.ai/). I love this course and I gained a lot of insight in my learning of deep learning models especially from brute coding point of view using three different libraries at the same time (MXNet, Torch, and Keras Tensorflow). This course is also associated with UC Berkeley course which is [here](https://courses.d2l.ai/berkeley-stat-157/index.html).
 
 For those of you who has the time and capital resources, I recommend to follow a sequence of courses that are designed to teach you the entire system thoroughly. 
 - Andrew Ng's Coursera Deep Learning Certificate: click [here](https://github.com/yiqiao-yin/Deep-Learning-Coursera)
