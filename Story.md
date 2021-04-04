@@ -33,4 +33,8 @@ Interesting phenomenon (and you probably saw it too) was that I did not have any
 - [Robust Portfolio by Influence Measure with presentation](https://yiqiaoyin.files.wordpress.com/2018/12/rubust-portfolio-by-influence-measure-yiqiao-yin-2018.pdf)
 - A small project that comes along this paper is finished as [an Applied Data Science project](https://github.com/yiqiao-yin/Fall2018-Advanced-Data-Science-Final-Project)
 
-I am now equipped with two unique skills: (1) I can use probability theory to manipulate and invent any stock data helpful for me; and (2) I can invent a machine learning algorithm that solves that problem. All of these ideas are updated frequently [here](https://yinscapital.com/private-collection/).
+I am equipped with two unique skills: (1) I can use probability theory to manipulate and invent any stock data helpful for me; and (2) I can invent a machine learning algorithm that solves that problem. All of these ideas are updated frequently [here](https://yinscapital.com/private-collection/).
+
+The above stories are mine to told and I hope you enjoy reading them. There is still much to learn for me, but I want to let you know that you can get it started just like I did without going to prestigious universities. As long as you have the will, you can keep on learning. That, my friend, is the beautiful thing about learning. 
+
+Now I am a PhD student going to Columbia University and I continue to write my stories and legacies. I encourage you to write yours, and perhaps one day you can look back and enjoy the legacies you left as well. 
